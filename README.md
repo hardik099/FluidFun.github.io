@@ -1,6 +1,6 @@
 # Fun game with fluids
 
-[Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+[Play here](https://hardik099.github.io/FunwithFluid/)
 
 <img src="/screenshot.jpg?raw=true" width="880">
 
